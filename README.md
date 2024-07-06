@@ -1,6 +1,6 @@
 # Go Bookstore API
 
-A simple RESTful API for managing books, built with Go, Fiber, and SQLite.
+A simple RESTful API for managing books, built with Go, Fiber, and PostgreSQL.
 
 ## Description
 
